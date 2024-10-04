@@ -2,29 +2,15 @@ class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
         sort(skill.begin(), skill.end());
-        vector<int> v(skill.size()/2);
-        for(int i = skill.size()/2; i < skill.size(); i++){
-            v.push_back(skill[i]);
-        }
-        reverse(v.begin(), v.end());
         
-        vector<pair<int, int>> vp;
-        for(int i = 0; i < skill.size()/2; i++){
-            vp.push_back(make_pair(skill[i], v[i]));
-        }
-        
-        vector<int> vs;
-        for(auto i : vp){
-            vs.push_back(i.first + i.second);
-        }
-        
-        for(int i = 0; i < vs.size() - 1; i++){
-            if(vs[i] != vs[i + 1]) return -1;  
-        }
-        
+        int n = skill.size();
         long long ans = 0;
-        for(auto i : vp){
-            ans += (long long)i.first * i.second;
+        int expectedSum = skill[0] + skill[n - 1];
+        
+        for (int i = 0; i < n / 2; i++) {
+            int sum = skill[i] + skill[n - 1 - i];
+            if (sum != expectedSum) return -1;
+            ans += (long long)skill[i] * skill[n - 1 - i];
         }
         
         return ans;
