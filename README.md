@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0148-sort-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
