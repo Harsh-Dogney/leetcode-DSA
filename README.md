@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
