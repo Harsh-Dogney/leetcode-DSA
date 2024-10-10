@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [1002-maximum-width-ramp](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
