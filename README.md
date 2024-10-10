@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
