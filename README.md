@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
