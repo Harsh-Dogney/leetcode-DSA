@@ -4,11 +4,13 @@ public:
     long long sum=0;
     priority_queue<int>pq(begin(nums),end(nums));
     while(k--){
-        int max=pq.top();
-        pq.pop();
-        sum+=max;
-        max= ceil(max/3.0);
-        pq.push(max);
+        int max_val = pq.top();
+            pq.pop();
+            
+            sum += max_val;
+            int reduced_val = (max_val + 2) / 3;  // Equivalent to ceil(max / 3.0) for positive integers
+            
+            pq.push(reduced_val);
     }  
     return sum;
     }
