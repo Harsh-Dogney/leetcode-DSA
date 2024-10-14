@@ -173,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
