@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -189,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
