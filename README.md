@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1002-maximum-width-ramp](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1002-maximum-width-ramp) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0148-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
