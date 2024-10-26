@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
