@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0383-ransom-note) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
