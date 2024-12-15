@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0792-binary-search) |
 | [1002-maximum-width-ramp](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
