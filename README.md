@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0670-maximum-swap) |
