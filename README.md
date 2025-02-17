@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0383-ransom-note) |
+| [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 ## String Matching
 |  |
