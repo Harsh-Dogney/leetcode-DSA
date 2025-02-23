@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0189-rotate-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0389-find-the-difference) |
