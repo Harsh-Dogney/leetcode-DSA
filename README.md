@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0231-power-of-two) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0268-missing-number) |
