@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0670-maximum-swap) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
