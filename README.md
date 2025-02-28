@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0670-maximum-swap) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0792-binary-search) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Interactive
 |  |
 | ------- |
