@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2690-house-robber-iv](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3429-special-array-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2690-house-robber-iv) |
 ## Interactive
 |  |
 | ------- |
