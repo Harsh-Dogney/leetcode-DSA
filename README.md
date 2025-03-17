@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
