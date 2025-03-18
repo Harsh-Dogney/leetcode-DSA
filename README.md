@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2358-number-of-ways-to-split-array) |
+| [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0389-find-the-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2509-minimize-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3394-minimum-array-end) |
