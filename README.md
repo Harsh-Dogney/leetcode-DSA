@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2690-house-robber-iv) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3429-special-array-i) |
