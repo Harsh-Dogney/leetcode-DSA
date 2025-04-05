@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0670-maximum-swap) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
@@ -378,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
