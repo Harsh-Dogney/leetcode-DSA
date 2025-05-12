@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3430-count-days-without-meetings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3430-count-days-without-meetings) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
