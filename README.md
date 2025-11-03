@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1656-count-good-triplets](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2509-minimize-xor) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1923-sentence-similarity-iii) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/0392-is-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Depth-First Search
 |  |
 | ------- |
