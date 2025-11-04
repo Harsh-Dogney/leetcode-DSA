@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Dogney/leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
